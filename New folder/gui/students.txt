@@ -1,0 +1,6 @@
+1,asala,123,asala@gmail.com,gleem,alexandria,01098764,BB@C,BN@A,A@B
+2,Joe,987,joe@gmail.com,Hadra,Alexandria,010786253,ABC,BB@C
+3,Frank,gyh,frankie@gmail.com,ibrahmya,alexandria,9082734,ABC
+4,Sherlock,holm,holmes@yahoo.com,baker.st,london,9287364,A@B
+5,ygj,uglr,sius,shdkussuk,fhkuhf,sgksf
+6,haya,333,ajsa@.,fleem,sjh,03208

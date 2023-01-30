@@ -1,0 +1,10 @@
+1,BB@C,CodetoWin,Asala,leo,6,2,08-05-2021 04:49:24
+2,A@B,c in depth,joe,ppp,1,3,21-05-2020 2:04:30
+3,b@3,DBMS,korth,pearson,10,1,01-01-2020 12:05:47
+4,5@2,bla,ahmed,ali,3,4,22-02-2020 18:45:34
+5,ABC,Programming,Sami,Youssef,3,2,06-10-2020 14:19:18
+6,JK@FC,DataScience,Joseph,Ragab,2,0,07-05-2021 17:24:23
+7,NY@C,Robbery,Frank,James,4,0,07-05-2021 13:36:46
+8,GH@4,Mickey,Walt,Disney,50,0,07-05-2021 16:05:18
+9,BN@A,Funyy,Joey,Don,11,1,08-05-2021 04:50:37
+10,xyz,maths,ali,hesham,2,0,08-05-2021 21:58:52
